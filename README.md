@@ -32,7 +32,8 @@ brew install ant
 首先从github上下载代码：
 
 ```
-git clone https://github.com/iusky/BurpSuite-MacOS
+git clone https://github.com/VinsonWood/BurpSuite-1.git
+
 ```
 
 然后进入该目录,直接执行
